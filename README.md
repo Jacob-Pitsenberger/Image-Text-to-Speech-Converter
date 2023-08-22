@@ -53,4 +53,4 @@ Note, other target languages supported by easyOCR can be used by specifying the 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
